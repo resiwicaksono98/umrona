@@ -1,4 +1,14 @@
 
+# TEST WEB DEVELOPER UMRONA 
+
+Restfull : Laravel & Frontend : Vue Js 
+
+
+## Authors
+
+- [@resiwicaksono](https://www.github.com/resiwicaksono98)
+
+
 ## API Reference
 
 #### Get all posts
@@ -31,3 +41,4 @@
 ```http
   DELETE /api/posts/${slug}
 ```
+
